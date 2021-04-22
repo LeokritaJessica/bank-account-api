@@ -1,6 +1,7 @@
 # bank-account-api
 This is bank-account api\
-to display data from myBank and mutation(transaction data) 
+to display data from myBank and mutation(transaction data)\
+Create this api using mongodb database, rest api with express.js, testing with mocha chai and fake data with faker.
 
 In the project directory, you can run:
 
