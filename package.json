@@ -1,0 +1,30 @@
+{
+  "name": "bank-account",
+  "version": "1.0.0",
+  "description": "Bank Account",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "node index.js",
+    "devStart": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "chai": "^4.3.4",
+    "chai-http": "^4.3.0",
+    "dotenv": "^8.2.0",
+    "eslint": "^7.24.0",
+    "express": "^4.17.1",
+    "faker": "^5.5.3",
+    "mocha": "^8.3.2",
+    "mongoose": "^5.12.5",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.7",
+    "prettier": "^2.2.1"
+  },
+  "devDependencies": {
+    "should-http": "^0.1.1"
+  }
+}
