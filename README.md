@@ -15,3 +15,6 @@ You will also see any lint errors in the console.
 
 Launches the test runner for input data.\
 Test and added data using mocha chai and faker.\
+
+## Documentation
+https://documenter.getpostman.com/view/13865548/TzJvfd9y
